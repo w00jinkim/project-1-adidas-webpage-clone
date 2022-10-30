@@ -79,4 +79,4 @@
 
 # 6) 담당 구현 사항 및 회고록 
 
-- Velog 링크 https://velog.io/@w00jinkim/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D
+- [Velog 링크](https://velog.io/@w00jinkim/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
